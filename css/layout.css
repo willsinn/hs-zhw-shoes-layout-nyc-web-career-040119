@@ -22,6 +22,16 @@
   clear: both;
 }
 
+
 /* Positioning Classes */
 
+.row-1 {
+  display: flex;
+}
+.row-2 {
+ display: flex;
+}
+.row-3 {
+  display: flex;
 
+}

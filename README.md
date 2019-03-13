@@ -1,3 +1,4 @@
+Next Step: row-3 containers need to be rearranged and restyled for flex-box
 # ZHW Shoes Layout
 
 ## Objectives
