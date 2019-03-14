@@ -25,21 +25,41 @@
 
 /* Positioning Classes */
 
-.row-1 {
+#row-1 {
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
 .left-box-1 {
-  width:65%;
+  width:66%;
 }
 .right-box-1 {
-  width:32.5%;
+  width:32%;
 }
-.row-2 {
+#row-2 {
  display: flex;
+ justify-content: space-between;
+ width: 100%;
+ padding-top: 1.5%;
 }
-.row-3 {
+.box-2 {
+  width: 32%;
+}
+#row-3 {
 display: flex;
-flex-direction: row;
+width: 100%;
+justify-content: space-between;
+}
+.left-box-3 {
+  width: 32.5%;
+  border-right: 1px dotted #ccc;
+  padding-right: 20px;
+}
+.center-box-3 {
+  width: 32.5%;
+    border-right: 1px dotted #ccc;
+  padding-right: 20px;
+}
+.right-box-3 {
+ width: 32%;
 }

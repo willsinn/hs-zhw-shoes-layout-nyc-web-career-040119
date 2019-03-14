@@ -121,11 +121,6 @@ iframe {
   margin: 10px 0 10px;
 }
 
-.border_right {
-  border-right: 1px dotted #ccc;
-  padding-right: 20px;
-}
-
 .thumbs_up {
   background: white url(../images/thumbs_up.jpg) no-repeat top right;
 }
