@@ -27,11 +27,19 @@
 
 .row-1 {
   display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.left-box-1 {
+  width:65%;
+}
+.right-box-1 {
+  width:32.5%;
 }
 .row-2 {
  display: flex;
 }
 .row-3 {
-  display: flex;
-
+display: flex;
+flex-direction: row;
 }
